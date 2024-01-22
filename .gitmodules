@@ -1,0 +1,6 @@
+[submodule "ingredient-phrase-tagger"]
+	path = ingredient-phrase-tagger
+	url = https://github.com/nytimes/ingredient-phrase-tagger.git
+[submodule "Foodmapping"]
+	path = Foodmapping
+	url = https://github.com/armandvalsesia/Foodmapping.git
